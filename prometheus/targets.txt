@@ -1,0 +1,2 @@
+localhost:8080
+raspberrypi.local:8080
